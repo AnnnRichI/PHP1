@@ -27,6 +27,8 @@
 //         man(); 
 //     }
 // }
+declare(strick_types = 1); //строгая типизация
+
 require_once __DIR__ . DIRECTORY_SEPARATOR . "template.function.php";
 
 

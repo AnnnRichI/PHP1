@@ -5,3 +5,24 @@
 27th of September 2024 03:16:51 PM Пользователь угадал.
 27th of September 2024 03:16:51 PM Игра окончена.
 27th of September 2024 03:16:51 PM --------------------------------
+27th of September 2024 05:36:23 PM --------------------------------
+27th of September 2024 05:36:23 PM Запущена игра "Угадай число"
+27th of September 2024 05:36:25 PM Искомое значение 62
+27th of September 2024 05:36:27 PM Попытка 1 пользователя Annie: 1
+27th of September 2024 05:36:27 PM Ответ пользователя МЕНЬШЕ
+27th of September 2024 05:36:30 PM Попытка 2 пользователя Annie: 50
+27th of September 2024 05:36:30 PM Ответ пользователя МЕНЬШЕ
+27th of September 2024 05:36:34 PM Попытка 3 пользователя Annie: 75
+27th of September 2024 05:36:34 PM Ответ пользователя БОЛЬШЕ
+27th of September 2024 05:36:36 PM Попытка 4 пользователя Annie: 60
+27th of September 2024 05:36:36 PM Ответ пользователя МЕНЬШЕ
+27th of September 2024 05:36:39 PM Попытка 5 пользователя Annie: 65
+27th of September 2024 05:36:39 PM Ответ пользователя БОЛЬШЕ
+27th of September 2024 05:36:41 PM Попытка 6 пользователя Annie: 63
+27th of September 2024 05:36:41 PM Ответ пользователя БОЛЬШЕ
+27th of September 2024 05:36:43 PM Попытка 7 пользователя Annie: 64
+27th of September 2024 05:36:43 PM Ответ пользователя БОЛЬШЕ
+27th of September 2024 05:36:44 PM Попытка 8 пользователя Annie: 62
+27th of September 2024 05:36:44 PM Пользователь угадал.
+27th of September 2024 05:36:44 PM Игра окончена.
+27th of September 2024 05:36:44 PM --------------------------------
